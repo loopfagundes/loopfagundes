@@ -19,8 +19,8 @@
 </div>
 
 ### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=loopfagundes&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=loopfagundes&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=loopfagundes&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br>
+![](https://github-readme-stats.vercel.app/api?username=loopfagundes&theme=react&hide_border=false&include_all_commits=false&count_private=false)
 
 ---
 ![](https://visitcount.itsvg.in/api?id=loopfagundes&label=loopfagundes&color=0&icon=6&pretty=true)
