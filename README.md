@@ -1,15 +1,7 @@
-## Hello, welcome to my profile.
+## 👋 Hello, welcome to my profile.
 
-### :fire: My Stats :
 
-![loopfagundes's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=loopfagundes&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
-
-![loopfagundes's Stats](https://github-readme-stats.vercel.app/api?username=loopfagundes&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=loopfagundes&theme=dark)](https://git.io/streak-stats)
-
----
-### :hammer_and_wrench: Languages and Tools :
+### 💻 Tech Stack:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/maven/maven-original.svg" title="Maven" alt="Maven" width="40" height="40"/>&nbsp;
@@ -24,3 +16,14 @@
   <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" title=" GitBash"  alt="GitBash" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original.svg" title="Swagger"  alt="Swagger" width="40" height="40"/>&nbsp;
 </div>
+
+### 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=loopfagundes&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=loopfagundes&theme=great-gatsby&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=loopfagundes&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=loopfagundes&limit=5&theme=great-gatsby&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=loopfagundes&icon=2&color=4)](https://visitcount.itsvg.in)
