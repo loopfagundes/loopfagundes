@@ -1,5 +1,17 @@
 ## 👋 Hello, welcome to my profile.
 
+Hello, my name is Luciano, I'm 34 years old and I live in Porto Alegre, RS - Brazil.
+
+I'm deaf and I work as QA Automation at DBServer, working in a hybrid way.
+
+I have experience in manual testing, including creating scenarios and test cases. Furthermore, I have skills in automated testing, using the Selenium framework with Java and Rest Assured for API testing.
+
+**My hobbies:** I like playing games on PC, especially Hack and Slash, RPG, Action-Adventure, Soulslike, and FPS games. I also love reading manga and comic books, as well as watching anime and movies. Star Wars and The Matrix marked my childhood. My all-time favorite game is the Resident Evil trilogy on PS1.
+
+**Fun fact:** My favorite operating system is Windows 98 Second Edition because it was the first one I ever used. I got my first computer, a Compaq Presario 7476, when I was 11 years old.
+
+Check out my portfolio: https://loopfagundes.github.io/
+
 
 ### 💻 Tech Stack:
 <div>
