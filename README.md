@@ -10,7 +10,14 @@ I have experience in manual testing, including creating scenarios and test cases
 
 **Fun fact:** My favorite operating system is Windows 98 Second Edition because it was the first one I ever used. I got my first computer, a Compaq Presario 7476, when I was 11 years old.
 
-Check out my portfolio: https://loopfagundes.github.io/
+Check out
+<a href="https://loopfagundes.github.io/"> 
+  My portfolio
+</a>
+and
+<a href="https://www.linkedin.com/in/luciano-fagundes-518b62322/">
+  Linkedin
+</a>
 
 
 ### 💻 Tech Stack:
