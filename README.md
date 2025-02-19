@@ -6,6 +6,8 @@ I'm deaf and I work as QA Automation at DBServer, working in a hybrid way.
 
 I have experience in manual testing, including creating scenarios and test cases. Furthermore, I have skills in automated testing, using the Selenium framework with Java and Rest Assured for API testing.
 
+I like facing new challenges and working as a team to achieve goals. I am interested in exploring new technologies and tools related to the QA area, always seeking to evolve and improve my skills.
+
 **My hobbies:** I like playing games on PC, especially Hack and Slash, RPG, Action-Adventure, Soulslike, and FPS games. I also love reading manga and comic books, as well as watching anime and movies. Star Wars and The Matrix marked my childhood. My all-time favorite game is the Resident Evil trilogy on PS1.
 
 **Fun fact:** My favorite operating system is Windows 98 Second Edition because it was the first one I ever used. I got my first computer, a Compaq Presario 7476, when I was 11 years old.
@@ -23,10 +25,14 @@ and
 ### 💻 Tech Stack:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/maven/maven-original.svg" title="Maven" alt="Maven" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" title="Js" alt="JS" width="40" height="40"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" title="Spring Boot" alt="Spring Boot" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/maven/maven-original.svg" title="Maven" alt="Maven" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain.svg" title="Cucumber" alt="Cucumber UI" width="40" height="40"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" title="VSC" alt="VSC " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="Intellij" alt="Intellij " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg"  title="JSON" alt="JSON" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/openapi/openapi-original.svg" title="Openapi" alt="Openapi" width="40" height="40"/>&nbsp;
