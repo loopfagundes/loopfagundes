@@ -119,7 +119,7 @@ I'm a **QA Automation Engineer** passionate about quality and detail. I work wit
 
 <div align="center">
 
-![Visitor Count](https://visitcount.itsvg.in/api?id=loopfagundes&label=Profile%20Views&color=0&icon=6&pretty=true)
+![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Floopfagundes&label=&icon=github&color=%23198754&message=&style=flat&tz=UTC)
 
 *"Quality is not an act, it is a habit."* — Aristotle
 
