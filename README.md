@@ -23,9 +23,8 @@
 
 ```yaml
 name:     "Luciano Fagundes"
-age:      34
-location: "Porto Alegre, RS — Brazil 🇧🇷"
-role:     "QA Automation @DBServer"
+location: "Porto Alegre, RS — Brazil"
+role:     "QA Automation @DB"
 mode:     "Hybrid"
 hearing:  "Deaf — breaking barriers one test at a time 🤙"
 ```
