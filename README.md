@@ -35,10 +35,10 @@ hearing:  "Deaf — breaking barriers one test at a time 🤙"
 
 ## `> cat about.txt`
 
-I'm a **QA Automation Engineer** passionate about quality and detail. I work with **manual and automated testing**, creating test scenarios and cases that ensure software reliability.
+I'm a **QA Automation** passionate about quality and detail. I work with **manual and automated testing**, creating test scenarios and cases that ensure software reliability.
 
 - 🔬 **Manual Testing** — Test scenarios, test cases, exploratory testing
-- 🤖 **Automation** — Selenium + Java, Rest Assured, Cypress
+- 🤖 **Automation** — Cucumber [Selenium + Java], [Cypress + JavaScript]
 - 🔗 **API Testing** — REST Assured, Postman, Swagger
 - 🌱 Always learning new tools and technologies in the QA ecosystem
 - 💬 Communicate via writing — clear, objective, and precise (just like good test cases)
