@@ -56,11 +56,12 @@ I'm a **QA Automation** passionate about quality and detail. I work with **manua
   <img src="https://user-images.githubusercontent.com/25181517/184103699-d1b83c07-2d83-4d99-9a1e-83bd89e08117.png" title="Selenium" alt="Selenium" width="48" height="48"/>
   <img src="https://rest-assured.io/img/logo-transparent.png" title="REST Assured" alt="REST Assured" width="48" height="48"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cypressio/cypressio-original.svg" title="Cypress" alt="Cypress" width="48" height="48"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" title="Docker" alt="Docker" width="48" height="48"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="48" height="48"/>
   <img src="https://cdn.worldvectorlogo.com/logos/appium.svg" title="Appium" alt="Appium" width="48" height="48"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain.svg" title="Cucumber" alt="Cucumber" width="48" height="48"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="48" height="48"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original.svg" title="Swagger" alt="Swagger" width="48" height="48"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/openapi/openapi-original.svg" title="OpenAPI" alt="OpenAPI" width="48" height="48"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg" title="JSON" alt="JSON" width="48" height="48"/>
   <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" title="Git" alt="Git" width="48" height="48"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="IntelliJ" alt="IntelliJ" width="48" height="48"/>
