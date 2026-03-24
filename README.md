@@ -1,51 +1,126 @@
-## 👋 Hello, welcome to my profile.
+<div align="center">
 
-Hello, my name is Luciano, I'm 34 years old and I live in Porto Alegre, RS - Brazil.
+```
+██╗     ██╗   ██╗ ██████╗██╗ █████╗ ███╗   ██╗ ██████╗
+ ██║     ██║   ██║██╔════╝██║██╔══██╗████╗  ██║██╔═══██╗
+ ██║     ██║   ██║██║     ██║███████║██╔██╗ ██║██║   ██║
+ ██║     ██║   ██║██║     ██║██╔══██║██║╚██╗██║██║   ██║
+ ███████╗╚██████╔╝╚██████╗██║██║  ██║██║ ╚████║╚██████╔╝
+ ╚══════╝ ╚═════╝  ╚═════╝╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝
+```
 
-I'm deaf and I work as QA Automation at DBServer, working in a hybrid way.
+### `QA Automation` · `Gamer` · `Geek`
 
-I have experience in manual testing, including creating scenarios and test cases. Furthermore, I have skills in automated testing, using the Selenium framework with Java and Rest Assured for API testing.
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-0d1117?style=for-the-badge&logoColor=white)](https://loopfagundes.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luciano-fagundes-518b62322/)
+[![Location](https://img.shields.io/badge/📍_Porto_Alegre,_RS-Brazil-009c3b?style=for-the-badge)](https://en.wikipedia.org/wiki/Porto_Alegre)
 
-I like facing new challenges and working as a team to achieve goals. I am interested in exploring new technologies and tools related to the QA area, always seeking to evolve and improve my skills.
-
-**My hobbies:** I like playing games on PC, especially Hack and Slash, RPG, Action-Adventure, Soulslike, and FPS games. I also love reading manga and comic books, as well as watching anime and movies. Star Wars and The Matrix marked my childhood. My all-time favorite game is the Resident Evil trilogy on PS1.
-
-**Fun fact:** My favorite operating system is Windows 98 Second Edition because it was the first one I ever used. I got my first computer, a Compaq Presario 7476, when I was 11 years old.
-
-Check out
-<a href="https://loopfagundes.github.io/"> 
-  My portfolio
-</a>
-and
-<a href="https://www.linkedin.com/in/luciano-fagundes-518b62322/">
-  Linkedin
-</a>
-
-
-### 💻 Tech Stack:
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <!-- <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" title="Js" alt="JS" width="40" height="40"/>&nbsp; -->
-  <img src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" title="Spring Boot" alt="Spring Boot" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/maven/maven-original.svg" title="Maven" alt="Maven" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/appium.svg" title="Appium" alt="Appium" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain.svg" title="Cucumber" alt="Cucumber UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" title="VSC" alt="VSC " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="Intellij" alt="Intellij " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg"  title="JSON" alt="JSON" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/openapi/openapi-original.svg" title="Openapi" alt="Openapi" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
-  <img src="https://user-images.githubusercontent.com/25181517/184103699-d1b83c07-2d83-4d99-9a1e-83bd89e08117.png" title="Selenium"  alt="Selenium" width="40" height="40"/>&nbsp;
-  <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" title="Git"  alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original.svg" title="Swagger"  alt="Swagger" width="40" height="40"/>&nbsp;
-  <img src="https://rest-assured.io/img/logo-transparent.png" title="REST Assured"  alt="REST Assured" width="40" height="40"/>&nbsp;
 </div>
 
-### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=loopfagundes&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br>
-![](https://github-readme-stats.vercel.app/api?username=loopfagundes&theme=react&hide_border=false&include_all_commits=false&count_private=false)
+---
+
+## `> whoami`
+
+```yaml
+name:     "Luciano Fagundes"
+age:      34
+location: "Porto Alegre, RS — Brazil 🇧🇷"
+role:     "QA Automation Engineer @ DBServer"
+mode:     "Hybrid"
+hearing:  "Deaf — breaking barriers one test at a time 🤙"
+```
+
+> *"Finding bugs before users do. One test at a time."*
 
 ---
-![](https://visitcount.itsvg.in/api?id=loopfagundes&label=loopfagundes&color=0&icon=6&pretty=true)
+
+## `> cat about.txt`
+
+I'm a **QA Automation Engineer** passionate about quality and detail. I work with **manual and automated testing**, creating test scenarios and cases that ensure software reliability.
+
+- 🔬 **Manual Testing** — Test scenarios, test cases, exploratory testing
+- 🤖 **Automation** — Selenium + Java, Rest Assured, Cypress
+- 🔗 **API Testing** — REST Assured, Postman, Swagger
+- 🌱 Always learning new tools and technologies in the QA ecosystem
+- 💬 Communicate via writing — clear, objective, and precise (just like good test cases)
+
+---
+
+## `> ./tech-stack --list`
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="48" height="48"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" title="JavaScript" alt="JavaScript" width="48" height="48"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" title="HTML" alt="HTML" width="48" height="48"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" title="CSS" alt="CSS" width="48" height="48"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/maven/maven-original.svg" title="Maven" alt="Maven" width="48" height="48"/>
+  <img src="https://user-images.githubusercontent.com/25181517/184103699-d1b83c07-2d83-4d99-9a1e-83bd89e08117.png" title="Selenium" alt="Selenium" width="48" height="48"/>
+  <img src="https://rest-assured.io/img/logo-transparent.png" title="REST Assured" alt="REST Assured" width="48" height="48"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cypressio/cypressio-original.svg" title="Cypress" alt="Cypress" width="48" height="48"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/appium.svg" title="Appium" alt="Appium" width="48" height="48"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain.svg" title="Cucumber" alt="Cucumber" width="48" height="48"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="48" height="48"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original.svg" title="Swagger" alt="Swagger" width="48" height="48"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/openapi/openapi-original.svg" title="OpenAPI" alt="OpenAPI" width="48" height="48"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg" title="JSON" alt="JSON" width="48" height="48"/>
+  <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" title="Git" alt="Git" width="48" height="48"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="IntelliJ" alt="IntelliJ" width="48" height="48"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" title="VS Code" alt="VS Code" width="48" height="48"/>
+  <img src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" title="Spring Boot" alt="Spring Boot" width="48" height="48"/>
+</div>
+
+---
+
+## `> cat hobbies.log`
+
+```
+[GAME]    Survival horror.......... ██████████ 100%
+[GAME]    Hack & Slash ............ ██████████ 100%
+[GAME]    Soulslike ............... ███████░░░  70%
+[GAME]    RPG ..................... █████████░  90%
+[GAME]    Action-Adventure ........ ████████░░  80%
+[GAME]    FPS ..................... ███████░░░  70%
+[MANGA]   Reading Manga ........... ██████████ 100%
+[ANIME]   Watching Anime .......... ██████████ 100%
+[COMICS]  Comic Books ............. █████████░  90%
+[MOVIES]  Star Wars ............... ██████████ LEGENDARY
+[MOVIES]  The Matrix .............. ██████████ LEGENDARY
+```
+
+> 🏆 **All-time favorite game:** Resident Evil Trilogy (PS1)
+
+---
+
+## `> git log --stats`
+
+<div align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=loopfagundes&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=loopfagundes&theme=react&hide_border=true&include_all_commits=false&count_private=false)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=loopfagundes&theme=react&hide_border=true)
+
+</div>
+
+---
+
+## `> cat fun_fact.txt`
+
+```diff
++ Favorite OS: Windows 98 SE
++ Reason: First OS I ever used
++ First PC: Compaq Presario 7476
++ Age when I got it: 11 years old
++ Era: The golden age of dial-up internet 🐌
+```
+
+---
+
+<div align="center">
+
+![Visitor Count](https://visitcount.itsvg.in/api?id=loopfagundes&label=Profile%20Views&color=0&icon=6&pretty=true)
+
+*"Quality is not an act, it is a habit."* — Aristotle
+
+</div>
