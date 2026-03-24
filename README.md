@@ -25,7 +25,7 @@
 name:     "Luciano Fagundes"
 age:      34
 location: "Porto Alegre, RS — Brazil 🇧🇷"
-role:     "QA Automation Engineer @ DBServer"
+role:     "QA Automation @DBServer"
 mode:     "Hybrid"
 hearing:  "Deaf — breaking barriers one test at a time 🤙"
 ```
