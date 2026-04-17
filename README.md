@@ -47,28 +47,6 @@ I'm a **QA Automation** passionate about quality and detail. I work with **manua
 
 ## `> ./tech-stack --list`
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="48" height="48"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" title="JavaScript" alt="JavaScript" width="48" height="48"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" title="HTML" alt="HTML" width="48" height="48"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" title="CSS" alt="CSS" width="48" height="48"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/maven/maven-original.svg" title="Maven" alt="Maven" width="48" height="48"/>
-  <img src="https://user-images.githubusercontent.com/25181517/184103699-d1b83c07-2d83-4d99-9a1e-83bd89e08117.png" title="Selenium" alt="Selenium" width="48" height="48"/>
-  <img src="https://rest-assured.io/img/logo-transparent.png" title="REST Assured" alt="REST Assured" width="48" height="48"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cypressio/cypressio-original.svg" title="Cypress" alt="Cypress" width="48" height="48"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" title="Docker" alt="Docker" width="48" height="48"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="48" height="48"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/appium.svg" title="Appium" alt="Appium" width="48" height="48"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain.svg" title="Cucumber" alt="Cucumber" width="48" height="48"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="48" height="48"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original.svg" title="Swagger" alt="Swagger" width="48" height="48"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg" title="JSON" alt="JSON" width="48" height="48"/>
-  <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" title="Git" alt="Git" width="48" height="48"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="IntelliJ" alt="IntelliJ" width="48" height="48"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" title="VS Code" alt="VS Code" width="48" height="48"/>
-  <img src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" title="Spring Boot" alt="Spring Boot" width="48" height="48"/>
-</div>
-
 ---
 
 ## `> cat hobbies.log`
