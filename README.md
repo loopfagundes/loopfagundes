@@ -77,7 +77,7 @@ I'm a **QA Automation** passionate about quality and detail. I work with **manua
 ```
 [GAME]    Survival horror.......... ██████████ 100%
 [GAME]    Hack & Slash ............ ██████████ 100%
-[GAME]    Soulslike ............... ███████░░░  70%
+[GAME]    Soulslike ............... ████████░░  80%
 [GAME]    RPG ..................... █████████░  90%
 [GAME]    Action-Adventure ........ ████████░░  80%
 [GAME]    FPS ..................... ███████░░░  70%
